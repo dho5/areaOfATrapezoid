@@ -1,0 +1,15 @@
+body {
+  width: 500px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 25px;
+  font-family: 'Old Standard TT', serif;
+  letter-spacing: 2px;
+}
+
+h2 {
+  font-size: 20px;
+  font-family: 'Old Standard TT', serif;
+}
